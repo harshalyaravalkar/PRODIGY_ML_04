@@ -20,7 +20,7 @@ As part of the internship requirements, I documented this task and the knowledge
 
 🔗 LinkedIn Post:
 
-[View LinkedIn Post](https://www.linkedin.com/posts/your-post-link-here)
+[View LinkedIn Post](https://www.linkedin.com/posts/harshal4902_machinelearning-deeplearning-cnn-ugcPost-7467503170764816387-UkOG/)
 
 ---
 
